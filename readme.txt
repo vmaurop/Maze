@@ -9,7 +9,7 @@ console application
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-input format:text file,relative path..Maze.txt.(i add many files for me to practice)
+input format:text file,relative path..Maze.txt.(i add many files for practice)
 
 
 text file with
