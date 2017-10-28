@@ -1,6 +1,5 @@
 
-Project:e-Travel
-MAZE CHALLENGE
+
 
 
 IDE:Visual studio 2015
@@ -29,7 +28,7 @@ _:open route
 X:closed route
 (in capital letters)
 
-Én the program I read the archive and convert it into a matrix(jagged array)
+Ã‰n the program I read the archive and convert it into a matrix(jagged array)
 
 S--->100   Starting point
 G--->-7    Exit(final point)
